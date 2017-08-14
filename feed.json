@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "genoa-telepsychiatry",
+    "description": "",
+    "home_page_url": "https://dtmunir.github.io/GenoaTelepsychiatry",
+    "feed_url": "https://dtmunir.github.io/GenoaTelepsychiatry/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Genoa Telepsychiatry"
+    },
+    "items": [
+        {
+            "id": "https://dtmunir.github.io/GenoaTelepsychiatry/why-providers-choose-us.html",
+            "url": "https://dtmunir.github.io/GenoaTelepsychiatry/why-providers-choose-us.html",
+            "title": "Why Providers Choose Us",
+            "content_html": "Providers who work with Genoa Telepsychiatry consistently report that their interests and goals are looked out for.",
+            "author": {
+                "name": "Genoa Telepsychiatry"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-14T13:43:32-04:00",
+            "date_modified": "2017-08-14T13:32:49-04:00"
+        }
+    ]
+}

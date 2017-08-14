@@ -1,2 +1,0 @@
-# GenoaTelepsychiatry
-Test GT Website
